@@ -1,0 +1,1 @@
+# program-menghasilkan-0-atau-tidak
